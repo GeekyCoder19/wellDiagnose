@@ -1,0 +1,107 @@
+[
+  {
+    "medicine_name": "Dolo 650",
+    "generic_name": "Acetaminophen",
+    "manufacturer": "MicroLabs Limited",
+    "uses": ["headaches", "muscle aches", "fever"],
+    "dosage": "650 mg"
+  },
+  {
+    "medicine_name": "Aspirin",
+    "generic_name": "Acetylsalicylic Acid",
+    "manufacturer": "Bayer",
+    "uses": ["pain relief", "fever", "inflammation", "blood thinner"],
+    "dosage": "81 mg"
+  },
+  {
+    "medicine_name": "Paracetamol",
+    "generic_name": "Acetaminophen",
+    "manufacturer": "GlaxoSmithKline",
+    "uses": ["pain relief", "fever"],
+    "dosage": "500 mg"
+  },
+  {
+    "medicine_name": "Amoxicillin",
+    "generic_name": "Amoxicillin",
+    "manufacturer": "Pfizer",
+    "uses": ["bacterial infections", "pneumonia", "sinus infections"],
+    "dosage": "500 mg"
+  },
+  {
+    "medicine_name": "Ciprofloxacin",
+    "generic_name": "Ciprofloxacin",
+    "manufacturer": "Bayer",
+    "uses": ["urinary tract infections", "bacterial infections"],
+    "dosage": "250 mg"
+  },
+  {
+    "medicine_name": "Ibuprofen",
+    "generic_name": "Ibuprofen",
+    "manufacturer": "Johnson & Johnson",
+    "uses": ["pain relief", "inflammation", "fever"],
+    "dosage": "200 mg"
+  },
+  {
+    "medicine_name": "Lisinopril",
+    "generic_name": "Lisinopril",
+    "manufacturer": "Merck",
+    "uses": ["high blood pressure", "heart failure"],
+    "dosage": "10 mg"
+  },
+  {
+    "medicine_name": "Atorvastatin",
+    "generic_name": "Atorvastatin",
+    "manufacturer": "Pfizer",
+    "uses": ["cholesterol management"],
+    "dosage": "40 mg"
+  },
+  {
+    "medicine_name": "Metformin",
+    "generic_name": "Metformin",
+    "manufacturer": "Bristol-Myers Squibb",
+    "uses": ["diabetes", "blood sugar control"],
+    "dosage": "500 mg"
+  },
+  {
+    "medicine_name": "Losartan",
+    "generic_name": "Losartan",
+    "manufacturer": "Merck",
+    "uses": ["high blood pressure", "heart failure"],
+    "dosage": "50 mg"
+  },
+  {
+    "medicine_name": "Omeprazole",
+    "generic_name": "Omeprazole",
+    "manufacturer": "AstraZeneca",
+    "uses": ["acid reflux", "gastritis", "heartburn"],
+    "dosage": "20 mg"
+  },
+  {
+    "medicine_name": "Tamsulosin",
+    "generic_name": "Tamsulosin",
+    "manufacturer": "Boehringer Ingelheim",
+    "uses": ["benign prostatic hyperplasia (BPH)", "urinary retention"],
+    "dosage": "0.4 mg"
+  },
+  {
+    "medicine_name": "Zoloft",
+    "generic_name": "Sertraline",
+    "manufacturer": "Pfizer",
+    "uses": ["depression", "anxiety", "panic attacks"],
+    "dosage": "50 mg"
+  },
+  {
+    "medicine_name": "Citalopram",
+    "generic_name": "Citalopram",
+    "manufacturer": "Forest Laboratories",
+    "uses": ["depression", "anxiety"],
+    "dosage": "10 mg"
+  },
+  {
+    "medicine_name": "Prednisone",
+    "generic_name": "Prednisone",
+    "manufacturer": "Pfizer",
+    "uses": ["inflammation", "autoimmune disorders"],
+    "dosage": "5 mg"
+  }
+]
